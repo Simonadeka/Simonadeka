@@ -53,8 +53,8 @@
 
 ## 📝 Publications & Articles
 Here are some of my latest posts on Medium:
-- [Securing Enterprise Networks: Best Practices](https://medium.com/@simon-friday-adeka/securing-enterprise-networks-best-practices-xxxx)
-- [Telecom Infrastructure and Cybersecurity Risks](https://medium.com/@simon-friday-adeka/telecom-infrastructure-and-cybersecurity-risks-xxxx)
+- [Securing Enterprise Networks: Best Practices](https://medium.com/p/942e03d0ed17?postPublishedType=initial)
+- [Telecom Infrastructure and Cybersecurity Risks](https://medium.com/p/af1b96f20755?postPublishedType=initial)
 - [Building a Career in Cybersecurity](https://medium.com/@simon-friday-adeka/building-a-career-in-cybersecurity-xxxx)
 
 *(Replace `xxxx` with the actual Medium article IDs once published.)*
