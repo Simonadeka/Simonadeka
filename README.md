@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🛡️ **Telecommunications & IT Specialist** with strong expertise in RF, BTS, and microwave deployments
 - 🌐 Experienced **Network & Security Engineer**, optimizing enterprise networks and ensuring secure infrastructure
-- 🔒 Currently advancing skills in **Cybersecurity** — penetration testing and ethical hacking, mobile & web security.
+- 🔒 Currently advancing skills in **Cybersecurity** — penetration testing and ethical hacking , mobile & web security.
 - 💡 Passionate about solving complex technical problems and mentoring others
 - 📫 Reach me: [LinkedIn](https://ng.linkedin.com/in/simon-adeka) | [Medium](https://medium.com/@simon-friday-adeka)
 
